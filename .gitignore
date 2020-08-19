@@ -1,0 +1,6 @@
+.swp
+.DS_Store
+node_modules
+/dist/bundle.js
+/dist/textures/**
+!/dist/textures/.keep

@@ -1,1 +1,1 @@
-python -m http.server 7800
+python -m http.server 7800 -d dist
